@@ -1,6 +1,6 @@
 # Investigating the Role of Local Context in Named Entity Recognition
 
-Code accompanying my Master's thesis, *"Investigating the Role of Local Context in Named Entity Recognition: Do NER Models Attend to the Entity or the Context?"*, MA Linguistics (Computational Linguistics profile), University of Cologne, supervised by Prof. Dr. Nils Reiter.
+Code accompanying my Master's thesis, *"Investigating the Role of Local Context in Named Entity Recognition: Do NER Models Attend to the Entity or the Context?"*, MA Linguistics, University of Cologne, supervised by Prof. Dr. Nils Reiter.
 
 ## Research question
 
